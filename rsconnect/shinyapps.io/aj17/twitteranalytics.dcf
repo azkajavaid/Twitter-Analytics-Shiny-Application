@@ -1,0 +1,10 @@
+name: twitteranalytics
+title:
+username:
+account: aj17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 271555
+bundleId: 1206340
+url: https://aj17.shinyapps.io/twitteranalytics/
+when: 1517706902.27917
